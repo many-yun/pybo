@@ -1,0 +1,13 @@
+.delete {
+    border-color:red;
+    color:red;
+}
+
+.itsme {color:blue}
+
+.page-item .page-link {
+    width:40px;
+    line-height:40px;
+    text-align:center;
+    padding:0;
+}
